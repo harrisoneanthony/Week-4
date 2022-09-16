@@ -1,0 +1,77 @@
+#container{
+    margin: 0px;
+    padding: 0px;
+    border: 3px solid grey;
+    height: 325px;
+    width: 750px;
+    position: fixed;
+}
+
+#top{
+    height: 100px;
+    background-color: steelblue;
+}
+
+#circle {
+    margin-top: -50px;
+    margin-bottom: -50px;
+}
+
+#circleimg {
+    height: 75px;
+    margin-left: 20px;
+}
+
+#map {
+    padding: 5px;
+    padding-bottom: 0px;
+    margin-left: 20px;
+    margin-right: 10px;
+    height: 20px;
+    width: 10px;
+}
+
+#gear {
+    height: 15px;
+    width: 15px;
+    margin-right: 10px;
+}
+
+#bottom{
+    margin-top: 50px;
+    padding: 0px;
+}
+
+h1{
+    margin: 0px;
+    padding: 0px;
+    margin-left: 20px;
+    font-family: sans-serif;
+
+}
+
+h2{
+    margin: 0px;
+    margin-bottom: 10px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+h3{
+    margin: 0px;
+    padding: 0px;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+
+#editProfile {
+    size: 20px;
+    margin-left: 20px;
+
+}
+
+a{
+    font-family: sans-serif;
+}
+
+
